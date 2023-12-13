@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "name": "Ashik",
+      "age": 20,
+      "gender": "Male",
+      "Location": "Narsingdi",
+      "skill": "MERN Devs",
+      "id": 1
+    },
+    {
+      "name": "Jahirul",
+      "age": 30,
+      "gender": "Male",
+      "Location": "Dhaka",
+      "skill": "MERN Devs",
+      "id": 2
+    },
+    {
+      "name": "Mamun",
+      "age": 40,
+      "gender": "Male",
+      "Location": "Uttara",
+      "skill": "LARAVEL Devs",
+      "id": 3
+    },
+    {
+      "name": "Biplob",
+      "age": 50,
+      "gender": "Male",
+      "Location": "Dhaka",
+      "skill": "IOS Devs",
+      "id": 4
+    },
+    {
+      "name": "Sumaiya",
+      "age": 10,
+      "gender": "Female",
+      "Location": "Uttara",
+      "skill": "DSA Devs",
+      "id": 5
+    }
+  ],
+  "teachers": [],
+  "staff": []
+}
